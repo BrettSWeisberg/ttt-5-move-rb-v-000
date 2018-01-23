@@ -13,4 +13,4 @@ input = gets.strip
 
 move(input)
 
-display_board(0)
+move(board, 0)
