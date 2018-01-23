@@ -13,4 +13,4 @@ input = gets.strip
 
 move(input)
 
-move(board,1)
+move(board,1,X)
